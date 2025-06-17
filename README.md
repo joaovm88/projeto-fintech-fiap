@@ -20,6 +20,5 @@ Para visualizar o projeto, basta seguir os passos:
 
 ## 🖼️ Screenshot da Aplicação
 
-*Aqui você pode colocar um print da sua página finalizada para deixar o projeto ainda mais profissional.*
+![screenshot-final](https://github.com/user-attachments/assets/4a232352-5048-46c5-b88c-b4640ba73a62)
 
-![Tela Principal da Aplicação](img/screenshot-final.png)

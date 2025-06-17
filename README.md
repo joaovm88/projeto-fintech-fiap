@@ -15,8 +15,7 @@ Este projeto é o desenvolvimento da interface da página principal de uma aplic
 
 Para visualizar o projeto, basta seguir os passos:
 1.  Fazer o download ou clonar este repositório.
-2.  Navegar até a pasta do projeto.
-3.  Abrir o arquivo `index.html` em qualquer navegador de internet.
+2.  Abrir o arquivo `index.html` em qualquer navegador de internet.
 
 ## 🖼️ Screenshot da Aplicação
 
